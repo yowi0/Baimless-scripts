@@ -2,6 +2,11 @@
 
 In this repository I'm gonna be releasing all the free public stuff that I made for Baimless.
 
+## 📲 Contact me
+
+My Discord: [yowi0#1234](https://discord.com/app)
+Discord Server: [Join](https://discord.gg/Ggwx5RMY2m)
+
 ## 📩 Terms of use
 
 Your not allowed to sell this otherwise you request to me and I allow you.
