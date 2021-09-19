@@ -7,7 +7,7 @@ Client.RegisterCallback("Paint", function()
     local DUCK = Config.Get(Vars.keyRageFakeDuck)
     local DMG = Config.Get(Vars.keyRageMinimalDamageOverride)
 
-    local curY = 600
+    local curY = screen.y / 2 + 100
     local RenderIndicator = function(text, col)
         font = Draw.AddFont("C:\\Windows\\Fonts\\calibrib.ttf", 28.0);
         txtw = Draw.GetTextSize(font, 32.0, text)
