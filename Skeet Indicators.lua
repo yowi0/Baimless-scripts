@@ -25,7 +25,7 @@ Client.RegisterCallback("Paint", function()
         end
 
         if HS == true then
-            RenderIndicator("ONSHOT", Color.new(132, 195, 16, 255))
+            RenderIndicator("HS", Color.new(132, 195, 16, 255))
         end
 
         if DMG == true then
