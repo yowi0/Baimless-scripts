@@ -14,7 +14,7 @@ If you want to use any stuff of this repository on your project first let me kno
 
 ## 🙋‍♂️ Contribute
 
-If you see any mistake or have any issue feel free to open a [issue](https://github.com/rollraw/baimless-api-book/issues) or if you want to improve the project you can open a [pull request](https://github.com/rollraw/baimless-api-book/pulls)
+If you see any mistake or have any issue feel free to open a [issue](https://github.com/yowi0/Baimless-scripts/issues) or if you want to improve the project you can open a [pull request](https://github.com/yowi0/Baimless-scripts/pulls)
 
 ---
 ⌨️ with ❤️ by [yowi0](https://github.com/yowi0) 😊
